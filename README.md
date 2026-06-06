@@ -1,3 +1,3 @@
-#Sample Project for .NET and C#
+#Learning MVC with C# and .NET
 
-create bookstore?
+Movie Database
