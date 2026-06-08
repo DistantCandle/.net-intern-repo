@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yWOz7e7zKyA=",
+  "dgSpecHash": "4EvOp+m0qus=",
   "success": true,
   "projectFilePath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\.net-intern-repo\\intern-project\\intern-project.csproj",
   "expectedPackageFiles": [
@@ -87,6 +87,7 @@
     "C:\\Users\\ThomasLoftus\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\10.0.8\\microsoft.entityframeworkcore.sqlserver.10.0.8.nupkg.sha512",
     "C:\\Users\\ThomasLoftus\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.8\\microsoft.entityframeworkcore.tools.10.0.8.nupkg.sha512",
     "C:\\Users\\ThomasLoftus\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.8\\microsoft.extensions.dependencymodel.10.0.8.nupkg.sha512",
+    "C:\\Users\\ThomasLoftus\\.nuget\\packages\\microsoft.extensions.validation\\10.0.0\\microsoft.extensions.validation.10.0.0.nupkg.sha512",
     "C:\\Users\\ThomasLoftus\\.nuget\\packages\\microsoft.identity.client\\4.73.1\\microsoft.identity.client.4.73.1.nupkg.sha512",
     "C:\\Users\\ThomasLoftus\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.73.1\\microsoft.identity.client.extensions.msal.4.73.1.nupkg.sha512",
     "C:\\Users\\ThomasLoftus\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.7.1\\microsoft.identitymodel.abstractions.7.7.1.nupkg.sha512",
@@ -137,6 +138,18 @@
     "C:\\Users\\ThomasLoftus\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.6\\system.security.cryptography.protecteddata.9.0.6.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Validation will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\.net-intern-repo\\intern-project\\intern-project.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\.net-intern-repo\\intern-project\\intern-project.csproj",
+      "libraryId": "Microsoft.Extensions.Validation",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
     {
       "code": "NU1901",
       "level": "Warning",
